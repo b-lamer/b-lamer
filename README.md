@@ -1,10 +1,9 @@
 # 💫Hi, I'm Sam!
-<br>I'm working on starting or continuing a number of projects, both tech and non tech related. <br>🌱As for learning, I'm working on learning everything I can from my hobbies<br>
-
+💻I'm working on starting or continuing a number of projects, both tech and non tech related. <br>🌱As for learning, I'm working on learning everything I can from my hobbies!<br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=b-lamer&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=b-lamer&theme=catppuccin_latte&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=b-lamer&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=b-lamer&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻 Tech Stack:
