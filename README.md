@@ -1,5 +1,5 @@
 # 💫Hi, I'm Sam!
-💻I'm working on starting or continuing a number of projects, both tech and non tech related. <br>🌱As for learning, I'm working on learning everything I can from my hobbies!<br>
+💻I'm working on starting or continuing a number of projects, both tech and non tech related.<br>   -The primary one I'm currently working on is getting a notion site set up to display my project progress! <br>🌱As for learning, I'm working on learning everything I can from my hobbies!<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=b-lamer&theme=catppuccin_latte&hide_border=false)<br/>
