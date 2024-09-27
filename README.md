@@ -1,7 +1,7 @@
 # 💫Hi, I'm Sam!
 💻I'm working on starting or continuing a number of projects, both tech and non tech related.<br>
 🗒️I actually just set up a [site on Notion](https://blamer.notion.site/Sam-Blamer-Project-Writeups-10bee490046080e486a6c01035bd1ec2) to display my projects and their writeups!<br>
-💡If you're wondering what I'm currently working on, I'm attempting to make a website that can show certain Instagram statistics without the need to download anything or log in
+💡If you're wondering what I'm currently working on, I'm attempting to make a website that can show certain Instagram statistics without the need to download anything or log in <br>
 🌱As for learning, I'm working on learning everything I can from my hobbies! (Which is currently websites and HTML)<br>
 
 # 📊 GitHub Stats:
