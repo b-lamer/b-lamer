@@ -1,6 +1,6 @@
 # 💫Hi, I'm Sam!
 💻I'm working on starting or continuing a number of projects, both tech and non tech related.<br>
-💡If you're wondering what I'm currently working on, I'm building a powershell script that deletes Edge from your PC as well as training for CCDC. <br>
+💡If you're wondering what I'm currently working on, I'm  making an rss-esque feed that updates the user on the latest Cyber news. <br>
 🌱As for learning, I'm working on learning everything I can from my hobbies! (Which is currently Powershell)<br>
 
 # 📊 GitHub Stats:
