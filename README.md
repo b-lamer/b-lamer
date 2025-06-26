@@ -1,7 +1,7 @@
 # 💫Hi, I'm Sam!
 💻I'm working on starting or continuing a number of projects, both tech and non tech related.<br>
-💡If you're wondering what I'm currently working on, I'm  making an rss-esque feed that updates the user on the latest Cyber news. <br>
-🌱As for learning, I'm working on learning everything I can from my hobbies! (Which is currently Powershell)<br>
+💡If you're wondering what I'm currently working on, I'm mainly focusing on some private bash scripts as well as tuning up some old repo's. <br>
+🌱My most recent finished project you can check out [here!](https://github.com/b-lamer/cyber-feeds) <br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=b-lamer&theme=catppuccin_latte&hide_border=false)<br/>
