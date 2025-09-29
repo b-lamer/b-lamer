@@ -1,5 +1,5 @@
 # 💫Hi, I'm Sam!
-💡If you're wondering what I'm currently working on, I'm mainly focusing on some private bash scripts as well as tuning up some old repo's. <br>
+💡Most of these projects are topics I got interested in and wanted to try them out myself <br>
 🌱My most recent finished project you can check out [here!](https://github.com/b-lamer/cyber-feeds) <br>
 
 # 📊 GitHub Stats:
