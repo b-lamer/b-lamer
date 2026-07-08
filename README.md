@@ -1,4 +1,6 @@
 # 💫Hi, I'm Sam!
+* Currently on a bit of a hiatus from coding, focusing more on infrastructure at the moment. Will start again soon, have some fun projects planned!
+
 💡Most of these projects are topics I got interested in and wanted to try them out myself <br>
 🌱My most recent finished project you can check out [here!](https://github.com/b-lamer/cyber-feeds) <br>
 
