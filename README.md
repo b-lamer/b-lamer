@@ -1,9 +1,10 @@
 # 💫Hi, I'm Sam!
 * Just finished my news aggregating Arduino ePaper display! It may not be the most beautiful, but I'm quite happy with how it turned out! <br>
+* Most of these projects are topics I got interested in and wanted to try them out myself <br>
+* My most recent finished project you can check out [here!](https://github.com/b-lamer/ePaperNewsFeed) <br>
 
-💡Most of these projects are topics I got interested in and wanted to try them out myself <br>
-🌱My most recent finished project you can check out [here!](https://github.com/b-lamer/ePaperNewsFeed) <br>
-
+Currently working on this README and my [website](https://b-lamer.github.io/website/), so this may look a little barren for now!
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=b-lamer&theme=catppuccin_latte&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=b-lamer&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false)<br/> 
