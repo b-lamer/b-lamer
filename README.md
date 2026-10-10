@@ -4,7 +4,6 @@
 * Most of these projects are topics I got interested in and wanted to try them out myself. <br>
 
 <br></br>
-Just finished the main content for my [website](https://b-lamer.github.io/website/) with full write-ups for all my projects, I'd love if you checked it out!
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.shion.dev/api?username=b-lamer&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
