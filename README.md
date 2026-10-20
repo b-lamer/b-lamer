@@ -1,7 +1,7 @@
 # 💫Hi, I'm Sam!
 * Just finished my news aggregating Arduino ePaper display. I'm quite happy with how it turned out! <br>
 * You can check it out [here](https://github.com/b-lamer/ePaperNewsFeed) <br>
-* Most of these projects are topics I got interested in and wanted to try them out myself. <br>
+* Currently working on educating myself about Machine Learning fundamentals <br>
 
 <br></br>
 
